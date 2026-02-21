@@ -1,1 +1,6 @@
-                                        
+catalogue = {
+    1:"Sofa",
+    2:"Bed",
+    3:"Chair",
+    4:"Table"
+}
